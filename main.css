@@ -1,0 +1,73 @@
+<style>
+body {
+  background: #A9A9A9;
+  color: #444;
+}
+h1,h2,h3,h4,h5,h6 {
+color: #444;
+line-height: 1;
+}
+img{
+  width= 200
+  height= 100
+}
+#header{
+background-color: #303030;
+padding: 32px 32px 0 46px;
+}
+
+#footer{
+  background-color: #303030;
+  padding: 32px 32px 0 46px;
+}
+
+#class1 {
+  background-color: #7D5309;
+
+}
+#class2 {
+  background: #68E8E8;
+}
+#class3 {
+  background: #6F7D09;
+}
+#class4 {
+  background: #DEF81E;
+}
+#class5 {
+  background: #1EB6F8;
+}
+#class6 {
+  background: #7D5309;
+}
+#class7 {
+  background: #B61EF8;
+}
+#class8 {
+  background: #88F81E;
+}
+#class9 {
+  background: #61BB0D;
+}
+#class10 {
+  background: #BB0DB5;
+}
+#class11 {
+  background: #BB0D15;
+}
+#class12 {
+  background: #F78F93;
+}
+#class13 {
+  background: #2A2272;
+}
+#class14 {
+  background: #5FD530;
+}
+#class15 {
+  background: #379C0F;
+}
+#class16 {
+  background: #21E8E8;
+}
+</style>
